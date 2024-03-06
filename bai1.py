@@ -1,0 +1,7 @@
+x=int(input('nhap x'))
+y=int(input('nhap y'))
+print(x+y)
+print(x-y)
+print(x/y)
+print(x//y)
+print(x%y)
